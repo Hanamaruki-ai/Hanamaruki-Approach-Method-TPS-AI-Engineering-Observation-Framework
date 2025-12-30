@@ -1,5 +1,26 @@
 # Hanamaruki-Approach-Method-TPS-AI-Engineering-Observation-Framework
 
+<img width="1024" height="1024" alt="Hanamaruki Ai対話術・ 活用術新アイコン" src="https://github.com/user-attachments/assets/ea141393-d387-4542-8330-63b261427f13" />
+
+---
+
+🇯🇵 日本語
+
+AIを利用している組織・企業の方へ
+
+本リポジトリは、APIコストリスク、エージェント挙動、運用安全性、責任設計といった
+経営判断に直結する内容を扱っているため、
+人手による説明では負荷が高く、主観が入りやすい性質があります。
+
+社内での説明が難しい場合は、
+利用中のAIに本リポジトリのURLを読み込ませ、
+要点整理・リスク構造・設計意図を説明させる方法も有効です。
+
+## 本リポジトリは、
+## AIによる要約・構造説明との親和性を前提に設計されており、
+個人の解釈に依存しない中立的な理解を支援します。
+
+---
 ---
 
 # Hanamaruki Approach Method  
